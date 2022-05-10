@@ -2,5 +2,5 @@ import sys
 
 print(sys.version)
 
-print('Hello pong')
+print('by PongkornMee')
 print('Hello Github')
